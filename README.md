@@ -1,4 +1,4 @@
-# MasterTicket
+# MasterTicket System
 a qrocde ticket system with web gui
 
 ![Screenshot](/READMEFILE/header_image.png)
