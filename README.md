@@ -32,7 +32,7 @@ The MasterTicket System is a part of the [MasterTicket Project](https://github.c
 4. Obtain the databaseURL of your Realtime Database, and add it into `edit_firebase.py` (replace `your_databaseURL`)
 
 
-![Screenshot](/READMEFILE/databaseURL.png)
+![Screenshot](/READMEFILE/databaseURL.jpg)
 
 ```python
 def firebase_init():
