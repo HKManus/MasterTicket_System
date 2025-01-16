@@ -1,17 +1,11 @@
 import firebase_admin as fb
 from firebase_admin import credentials, db
 
-# from vd_TEST import verification_dict as TEST
-# from vd_NOON import verification_dict as NOON
-# from vd_NIGHT import verification_dict as NIGHT
-
-# init = {**TEST, **NOON, **NIGHT}
-
 
 def firebase_init():
     cred = credentials.Certificate("serviceAccountKey.json")
     fb.initialize_app(cred, {
-        "databaseURL": "https://mastercode-c652f-default-rtdb.firebaseio.com/"
+        "databaseURL": "your_databaseURL" # replace me
     })
 
 
