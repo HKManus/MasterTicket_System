@@ -45,3 +45,9 @@ def firebase_init():
 5. run app.py
 6. connect to the url shown in th terminal
    example of terminal message: ` * Running on http://127.0.0.1:5000`
+
+
+## Usage
+
+![Screenshot](/READMEFILE/interface.jpg)
+
